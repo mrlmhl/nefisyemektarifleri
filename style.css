@@ -178,10 +178,10 @@ cursor: pointer;
 }
     
 
-
+/* 
 @media (min-width: 375px) {
 
     body{ width: 300px;}
     /* Bu stil, ekran genişliği 768 pikselden küçük olduğunda aktif olacak */
     /* Burada mobil için özel stil tanımlayabilirsiniz */
-}
+} */
